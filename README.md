@@ -5,10 +5,13 @@ Welcome to the Banking System project! This Java-based application allows you to
 # Features
 - User Registration & Login
 - Account Creation
-- order food
-- pay on any mode
-- get delivery time
-- give us feed back
+- Multiple restaurant
+- New restaurant can be added
+- Order food
+- Rate of food, Cost and timing 
+- Pay on any mode
+- Get delivery time
+- Give us feed back
 
 # Technologies Used
 - Java
